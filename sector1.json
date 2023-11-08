@@ -1,6 +1,16 @@
 {
-  temp:10,
-  presion:20,
-  flujo:15,
-  pureza:8,
+  "temp0":10,
+  "presion0":20,
+  "flujo0":15,
+  "pureza0":8,
+  
+  "temp1":10,
+  "presion1":20,
+  "flujo1":15,
+  "pureza1":8,
+  
+   "temp2":10,
+  "presion2":20,
+  "flujo2":15,
+  "pureza2":8,
 }
